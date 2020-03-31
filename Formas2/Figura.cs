@@ -8,6 +8,7 @@ namespace Formas2
 {
     public abstract class Figura
     {
+        //Chao
         public abstract double CalcularArea();
     }
 }
