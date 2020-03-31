@@ -8,6 +8,7 @@ namespace Formas2
 {
     class Cuadrado : Figura
     {
+        
         public double Lado { get; set; }
         public double Area { get; set; }
 
